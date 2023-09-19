@@ -1,0 +1,23 @@
+WEBSITE EDUCATION
+-FITUR:
+1. BISA CRUD
+2. LIVE SEARCH AJAX Jquery
+3. LOGIN,LOGOUT,REGISTRASI ADMIN 
+4. RELASI ANTAR TABLE(tabel teacher & tabel course)
+5. ADA 3 TABEL(admin,teacher,course)
+
+-CARA IMPORT DATABASE
+ Buat database dengan nama tubes lalu klik import dan klik go(harus buat database dahulu jangan langsung import)
+
+-CARA PERGI KE HALAMAN
+ pastikan xamp control sudah aktif, pindahkan folder education ke htdocs
+  1. ADMIN: http://localhost/education/admin/index.php
+  2. USER: http://localhost/education/?page
+
+-BUG (belum bisa difix karena mepet deadline)
+1. -
+2. (WAJIB)import gambar dengan ukuran 3000 X 2000 pixels kalau ga tidak simetris saat ditampilkan
+3. (WAJIB) Harus merubah css dengan style sendiri kalau tidak akan sama seperti orang lain karena saya mengerakan css yg sama
+
+-PERBAIKI(opsi)
+1. file ajax masih secara online jadi harus download dlu
